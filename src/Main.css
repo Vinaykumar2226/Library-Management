@@ -1,0 +1,70 @@
+.container2 {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  border-radius: 20px;
+}
+.title {
+  background-color: aquamarine;
+  font-size: 50px;
+  font-weight: 700;
+}
+.container3 {
+  display: flex;
+  justify-content: center;
+}
+.inp {
+  width: 400px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 15px;
+  padding-left: 10px;
+  margin: 10px;
+}
+.btn {
+  background-color: aqua;
+  width: 60px;
+  height: 40px;
+  margin: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+}
+.dpdw {
+  width: 100px;
+  margin: 15px;
+  border: 1px solid black;
+  padding-left: 10px;
+}
+.dpcon {
+  display: flex;
+  justify-content: center;
+}
+.disp {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 30px;
+}
+.searchres {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 1px solid black;
+  align-items: center;
+}
+.gimg {
+  width: 60px;
+  height: 60px;
+  border-radius: 15px;
+}
+.dget {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.usename {
+  font-size: 20px;
+  margin-left: 20px;
+  font-weight: 600;
+}
